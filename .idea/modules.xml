@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-boot-redis-day001/01-boot-redis-day001.iml" filepath="$PROJECT_DIR$/01-boot-redis-day001/01-boot-redis-day001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-boot-dubbo-consumer/02-boot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/02-boot-dubbo-consumer/02-boot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-boot-dubbo-intface-api/02-boot-dubbo-intface-api.iml" filepath="$PROJECT_DIR$/02-boot-dubbo-intface-api/02-boot-dubbo-intface-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-boot-dubbo-provider/02-boot-dubbo-provider.iml" filepath="$PROJECT_DIR$/02-boot-dubbo-provider/02-boot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-boot-dubbo-consumer/03-boot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/03-boot-dubbo-consumer/03-boot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-boot-swagger-01/04-boot-swagger-01.iml" filepath="$PROJECT_DIR$/04-boot-swagger-01/04-boot-swagger-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-boot-websocket/05-boot-websocket.iml" filepath="$PROJECT_DIR$/05-boot-websocket/05-boot-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-boot-global-exception/06-boot-global-exception.iml" filepath="$PROJECT_DIR$/06-boot-global-exception/06-boot-global-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-boot-servlet/07-boot-servlet.iml" filepath="$PROJECT_DIR$/07-boot-servlet/07-boot-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-mq-start/08-mq-start.iml" filepath="$PROJECT_DIR$/08-mq-start/08-mq-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-mq-Exchange/09-mq-Exchange.iml" filepath="$PROJECT_DIR$/09-mq-Exchange/09-mq-Exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-mq-translation/10-mq-translation.iml" filepath="$PROJECT_DIR$/10-mq-translation/10-mq-translation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-mq-confirm/11-mq-confirm.iml" filepath="$PROJECT_DIR$/11-mq-confirm/11-mq-confirm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-mq-confirm-comsume/12-mq-confirm-comsume.iml" filepath="$PROJECT_DIR$/12-mq-confirm-comsume/12-mq-confirm-comsume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-mq-boot-direct/13-mq-boot-direct.iml" filepath="$PROJECT_DIR$/13-mq-boot-direct/13-mq-boot-direct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-mq-boot-direct-consumer/14-mq-boot-direct-consumer.iml" filepath="$PROJECT_DIR$/14-mq-boot-direct-consumer/14-mq-boot-direct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-mq-boot-fanout-provider/15-mq-boot-fanout-provider.iml" filepath="$PROJECT_DIR$/15-mq-boot-fanout-provider/15-mq-boot-fanout-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-mq-boot-fanout-consumer/16-mq-boot-fanout-consumer.iml" filepath="$PROJECT_DIR$/16-mq-boot-fanout-consumer/16-mq-boot-fanout-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-mq-boot-topic-provider/17-mq-boot-topic-provider.iml" filepath="$PROJECT_DIR$/17-mq-boot-topic-provider/17-mq-boot-topic-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-mq-boot-topic-consumer/18-mq-boot-topic-consumer.iml" filepath="$PROJECT_DIR$/18-mq-boot-topic-consumer/18-mq-boot-topic-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-mq-boot-cluster/19-mq-boot-cluster.iml" filepath="$PROJECT_DIR$/19-mq-boot-cluster/19-mq-boot-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-zookeeper-boot-start/20-zookeeper-boot-start.iml" filepath="$PROJECT_DIR$/20-zookeeper-boot-start/20-zookeeper-boot-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-dubbo-boot-provider/21-dubbo-boot-interface.iml" filepath="$PROJECT_DIR$/21-dubbo-boot-provider/21-dubbo-boot-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-dubbo-interface/22-dubbo-interface.iml" filepath="$PROJECT_DIR$/22-dubbo-interface/22-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-dubbo-boot-consumer/23-dubbo-boot-consumer.iml" filepath="$PROJECT_DIR$/23-dubbo-boot-consumer/23-dubbo-boot-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-dubbo-boot-interface/24-dubbo-boot-interface.iml" filepath="$PROJECT_DIR$/24-dubbo-boot-interface/24-dubbo-boot-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-dubbo-boot-consumer/25-dubbo-boot-consumer.iml" filepath="$PROJECT_DIR$/25-dubbo-boot-consumer/25-dubbo-boot-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-dubbo-boot-provider/26-dubbo-boot-provider.iml" filepath="$PROJECT_DIR$/26-dubbo-boot-provider/26-dubbo-boot-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-boot-auto-configuration/27-boot-auto-configuration.iml" filepath="$PROJECT_DIR$/27-boot-auto-configuration/27-boot-auto-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-boot-define-starter/28-boot-define-starter.iml" filepath="$PROJECT_DIR$/28-boot-define-starter/28-boot-define-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-boot-use-define-starter/29-boot-use-define-starter.iml" filepath="$PROJECT_DIR$/29-boot-use-define-starter/29-boot-use-define-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-OSS-Boot/30-OSS-Boot.iml" filepath="$PROJECT_DIR$/30-OSS-Boot/30-OSS-Boot.iml" />
+    </modules>
+  </component>
+</project>

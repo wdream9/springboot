@@ -1,0 +1,3 @@
+com\starter\AppRun.class
+com\starter\config\RedisProperties.class
+com\starter\config\RedisStarter.class

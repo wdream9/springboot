@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!-- 定义消费者应用名称 -->
+    <dubbo:application name="site-consumer"/>
+
+    <!-- 指定注册中心 -->
+    <dubbo:registry address="zookeeper://192.168.153.101:2181"/>
+
+    <!-- 生成一个当前siteservice的代理对象：当恰尼这个siteservice的代理对象会注册到ioc容器中，要使用的话可以从ioc容器中拿出来-->
+    <dubbo:reference id="siteService" interface="com.dubbo.service.SiteService"/>
+
+
+
+</beans>

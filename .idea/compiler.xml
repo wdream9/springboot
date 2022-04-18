@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="07-boot-servlet" />
+        <module name="10-mq-translation" />
+        <module name="05-boot-websocket" />
+        <module name="23-dubbo-boot-consumer" />
+        <module name="09-mq-Exchange" />
+        <module name="27-boot-auto-configuration" />
+        <module name="26-dubbo-boot-provider" />
+        <module name="17-mq-boot-topic-provider" />
+        <module name="22-dubbo-interface" />
+        <module name="08-mq-start" />
+        <module name="13-mq-boot-direct" />
+        <module name="19-mq-boot-cluster" />
+        <module name="21-dubbo-boot-provider" />
+        <module name="02-boot-dubbo-provider" />
+        <module name="02-boot-dubbo-consumer" />
+        <module name="30-OSS-Boot" />
+        <module name="25-dubbo-boot-consumer" />
+        <module name="18-mq-boot-topic-consumer" />
+        <module name="01-boot-redis-day001" />
+        <module name="02-boot-dubbo-intface-api" />
+        <module name="04-boot-swagger-01" />
+        <module name="29-boot-use-define-starter" />
+        <module name="11-mq-confirm" />
+        <module name="14-mq-boot-direct-consumer" />
+        <module name="06-boot-global-exception" />
+        <module name="03-boot-dubbo-consumer" />
+        <module name="15-mq-boot-fanout-provider" />
+        <module name="21-dubbo-boot-interface" />
+        <module name="20-zookeeper-boot-start" />
+        <module name="24-dubbo-boot-interface" />
+        <module name="28-boot-define-starter" />
+        <module name="16-mq-boot-fanout-consumer" />
+        <module name="12-mq-confirm-comsume" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-boot-redis-day001" target="11" />
+      <module name="02-boot-dubbo-consumer" target="11" />
+      <module name="02-boot-dubbo-intface-api" target="11" />
+      <module name="02-boot-dubbo-provider" target="11" />
+      <module name="03-boot-dubbo-consumer" target="11" />
+      <module name="04-boot-swagger-01" target="11" />
+      <module name="05-boot-websocket" target="11" />
+      <module name="06-boot-global-exception" target="11" />
+      <module name="07-boot-servlet" target="11" />
+      <module name="08-mq-start" target="11" />
+      <module name="09-mq-Exchange" target="11" />
+      <module name="10-mq-translation" target="11" />
+      <module name="11-mq-confirm" target="11" />
+      <module name="11-mq-topic" target="11" />
+      <module name="12-mq-confirm-comsume" target="11" />
+      <module name="13-mq-boot-direct" target="11" />
+      <module name="14-mq-boot-direct-consumer" target="11" />
+      <module name="15-mq-boot-fanout-provider" target="11" />
+      <module name="16-mq-boot-fanout-consumer" target="11" />
+      <module name="17-mq-boot-topic-provider" target="11" />
+      <module name="18-mq-boot-topic-consumer" target="11" />
+      <module name="19-mq-boot-cluster" target="11" />
+      <module name="20-zookeeper-boot-start" target="11" />
+      <module name="21-dubbo-boot-interface" target="11" />
+      <module name="21-dubbo-boot-provider" target="11" />
+      <module name="22-dubbo-interface" target="11" />
+      <module name="23-dubbo-boot-consumer" target="11" />
+      <module name="24-dubbo-boot-interface" target="11" />
+      <module name="25-dubbo-boot-consumer" target="11" />
+      <module name="26-dubbo-boot-provider" target="11" />
+      <module name="27-boot-auto-configuration" target="11" />
+      <module name="28-boot-define-starter" target="11" />
+      <module name="29-boot-use-define-starter" target="11" />
+      <module name="30-OSS-Boot" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-boot-redis-day001" options="-parameters" />
+      <module name="02-boot-dubbo-consumer" options="-parameters" />
+      <module name="02-boot-dubbo-provider" options="-parameters" />
+      <module name="03-boot-dubbo-consumer" options="-parameters" />
+      <module name="04-boot-swagger-01" options="-parameters" />
+      <module name="05-boot-websocket" options="-parameters" />
+      <module name="06-boot-global-exception" options="-parameters" />
+      <module name="13-mq-boot-direct" options="-parameters" />
+      <module name="14-mq-boot-direct-consumer" options="-parameters" />
+      <module name="15-mq-boot-fanout-provider" options="-parameters" />
+      <module name="16-mq-boot-fanout-consumer" options="-parameters" />
+      <module name="17-mq-boot-topic-provider" options="-parameters" />
+      <module name="18-mq-boot-topic-consumer" options="-parameters" />
+      <module name="19-mq-boot-cluster" options="-parameters" />
+      <module name="20-zookeeper-boot-start" options="-parameters" />
+      <module name="25-dubbo-boot-consumer" options="-parameters" />
+      <module name="26-dubbo-boot-provider" options="-parameters" />
+      <module name="27-boot-auto-configuration" options="-parameters" />
+      <module name="28-boot-define-starter" options="-parameters" />
+      <module name="29-boot-use-define-starter" options="-parameters" />
+    </option>
+  </component>
+</project>

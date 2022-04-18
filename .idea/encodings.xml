@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-boot-redis-day001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-boot-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-boot-dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-boot-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-boot-swagger-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-boot-websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-boot-global-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-boot-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-boot-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-mq-boot-direct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-mq-boot-direct-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-mq-boot-fanout-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16-mq-boot-fanout-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17-mq-boot-topic-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18-mq-boot-topic-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19-mq-boot-cluster/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20-zookeeper-boot-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/21-dubbo-boot-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/21-dubbo-boot-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/23-dubbo-boot-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/23-dubbo-boot-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/25-dubbo-boot-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/26-dubbo-boot-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27-boot-auto-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/28-boot-define-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/29-boot-use-define-starter/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+qiniu:
+  accessKey: 5vYtRbds50mhvuJ4nkGqpwDn2YM1dyGFzRUAAcFu
+  secretKey: C5YwkI6LMPuaIc5WAjUEpfxqRM3bgmOUS22MusSd
+  bucket: vk-pub
+  zone: huanan
+  domain: ra2pvob31.hn-bkt.clouddn.com
+server:
+  port: 8088

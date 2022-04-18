@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-boot-redis-day001/pom.xml" />
+        <option value="$PROJECT_DIR$/02-boot-intface-api/pom.xml" />
+        <option value="$PROJECT_DIR$/02-boot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/02-boot-dubbo-intface-api/pom.xml" />
+        <option value="$PROJECT_DIR$/02-boot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/03-boot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/04-boot-swagger-01/pom.xml" />
+        <option value="$PROJECT_DIR$/05-boot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/06-boot-global-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/07-boot-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/08-mq-start/pom.xml" />
+        <option value="$PROJECT_DIR$/09-mq-direct/pom.xml" />
+        <option value="$PROJECT_DIR$/10-mq-fanout/pom.xml" />
+        <option value="$PROJECT_DIR$/09-mq-Exchange/pom.xml" />
+        <option value="$PROJECT_DIR$/10-mq-translation/pom.xml" />
+        <option value="$PROJECT_DIR$/11-mq-confirm/pom.xml" />
+        <option value="$PROJECT_DIR$/12-mq-confirm-comsume/pom.xml" />
+        <option value="$PROJECT_DIR$/13-mq-boot-direct/pom.xml" />
+        <option value="$PROJECT_DIR$/14-mq-boot-direct-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/16-mq-boot-fanout-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/15-mq-boot-fanout-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/17-mq-boot-topic-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/18-mq-boot-topic-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/19-mq-boot-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/20-zookeeper-boot-start/pom.xml" />
+        <option value="$PROJECT_DIR$/21-dubbo-boot-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/22-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/21-dubbo-boot-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/23-dubbo-boot-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/24-dubbo-boot-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/25-dubbo-boot-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/26-dubbo-boot-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/27-boot-auto-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/28-boot-define-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/29-boot-use-define-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/30-OSS-Boot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
